@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.appdeveloperblog.app.ws.MobileAppWsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.27 s - in com.appdeveloperblog.app.ws.MobileAppWsApplicationTests
